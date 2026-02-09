@@ -1,0 +1,19 @@
+# build objects
+*.o
+*.a
+*.out
+cub3d
+cub3D
+obj/
+
+# editor
+*.swp
+
+# files
+*.pdf
+*.md
+*.txt
+*.dot
+
+# folders
+learn/*

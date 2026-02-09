@@ -1,0 +1,12 @@
+[submodule "libs/minilibx-linux"]
+	path = libs/minilibx-linux
+	url = git@github.com:FrancisGR1/minilibx-linux.git
+[submodule "libs/libft"]
+	path = libs/libft
+	url = git@github.com:FrancisGR1/libft.git
+[submodule "libs/c-logger"]
+	path = libs/c-logger
+	url = git@github.com:FrancisGR1/c-logger.git
+[submodule "libs/minunit"]
+	path = libs/minunit
+	url = git@github.com:siu/minunit.git
